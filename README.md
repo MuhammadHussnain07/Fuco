@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="assets/images/splash Logo.png" alt="Fuco Logo" width="120"/>
-
 # Fuco — Smart Fuel Tracker & Trip Cost Calculator
 
 ### *Stop guessing how much fuel costs you. Start knowing exactly.*
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Google Maps](https://img.shields.io/badge/Google%20Maps-Navigation-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)](https://developers.google.com/maps)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-brightgreen?style=for-the-badge)](https://flutter.dev)
 
 </div>
